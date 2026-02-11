@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 
-# 👋 Salut, moi c’est [Ton Prénom]
+# 👋 Salut, moi c’est Lauric
 
-🎯 [Ton métier / spécialité]  
-💻 Passionné(e) par [technologies / domaines]  
-📍 Basé(e) à [Ville, Pays]
+🎯 Ingénieur Data & IA 
+💻 Passionné par les nouvelles technologies (Data, IA, cybersécurité) et finance
+📍 Basé à Lille, France
 
 ---
 
 ## 🚀 À propos de moi
 
-Développeur(se) spécialisé(e) en [domaine].  
+Développeur spécialisé en Data IA.  
 J’aime construire des projets autour de **[thématiques : IA, web, cybersécurité, data, etc.]**  
 Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
@@ -31,7 +31,7 @@ Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
 ## 📌 Projets principaux
 
-- 🔹 **Nom du projet 1** – Courte description
+- 🔹 **Sinapp** – Système intégré de gestion de sinistres
 - 🔹 **Nom du projet 2** – Courte description
 - 🔹 **Nom du projet 3** – Courte description
 
@@ -47,9 +47,9 @@ Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [Ton lien]
-- 📧 Email : [Ton email]
-- 🌐 Portfolio : [Ton site]
+- 💼 LinkedIn : www.linkedin.com/in/lauric-gbozo/
+- 📧 Email : Lauricgokar@gmail.com
+- 🌐 Portfolio : []
 
 ---
 

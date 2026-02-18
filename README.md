@@ -5,6 +5,7 @@
 
 🎯 Ingénieur Data & IA 
 💻 Passionné par les nouvelles technologies (Data, IA, cybersécurité) et finance
+
 📍 Basé à Lille, France
 
 ---
@@ -12,7 +13,7 @@
 ## 🚀 À propos de moi
 
 Développeur spécialisé en Data IA.  
-J’aime construire des projets autour de **[thématiques : IA, web, cybersécurité, data, etc.]**  
+J’aime construire des projets autour de **La data, l'IA, le developpement web et aussi de la cybersécurité**  
 Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
 ---
@@ -39,9 +40,9 @@ Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Typescript]([https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight](https://github.com/gilbarbara/logos/blob/main/logos/typescript-icon.svg))
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Git]([https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg))
 
 ---
 

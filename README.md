@@ -64,4 +64,4 @@ Toujours en train d’apprendre et d’explorer de nouvelles technologies.
 
 ---
 
-⭐️ N’hésite pas à explorer mes repositories !
+⭐️ N'hésite pas à parcourir mes dépôts et à me solliciter si tu travailles sur des projets liés à mes centres d'intérêt pour une éventuelle collaboration !

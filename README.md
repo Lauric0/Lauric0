@@ -1,4 +1,4 @@
-# Hi there, I'm **GBOZO Lauric** 👋
+# Hi there, I'm **[Your Name]** 👋
 
 I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, model optimization, and data engineering — building systems that deliver real impact in production.
 
@@ -92,6 +92,21 @@ I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, 
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always happy to exchange ideas with people working on similar topics. Whether you want to share a thought, discuss a technical challenge, or explore a collaboration — feel free to reach out.
+
+**Topics I'm especially interested in discussing:**
+- 🧬 Model compression & efficient inference (pruning, quantization, distillation)
+- 📦 Deploying ML on edge devices and embedded systems
+- 📊 Data engineering, ETL design, and BI for decision-making
+- 🌍 Tech for impact — especially in emerging markets
+
+> Have a project in mind? An interesting paper to discuss? Or just want to connect with someone who cares about making AI work in the real world?
+> **Open an issue, send a PR, or drop me a message — I read everything.**
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -101,7 +116,7 @@ I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, 
 
 ---
 
-> *"In God we trust; all others must bring data."* — W. Edwards Deming
+> “*You can’t manage what you can’t measure.*” — Eric Schmidt
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lauric0&style=flat-square&color=grey" alt="Profile views"/>

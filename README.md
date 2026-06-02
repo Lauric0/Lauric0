@@ -91,16 +91,6 @@ I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
-## 📬 How to Reach Me
- 
-<p align="left">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-</p>
-> Replace the links above with your own — just update `your@email.com`, `your-profile`, and `your-handle`.
- 
----
 
 ## 🤝 Let's Connect
 

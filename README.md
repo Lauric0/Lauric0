@@ -1,51 +1,53 @@
-# Hi there 👋
+# Hi there, I'm **[Your Name]** 👋
 
-I'm a **Data Scientist & ML Engineer** with a strong interest in embedded AI, data engineering, and building systems that actually work in production.
+I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, model optimization, and data engineering — building systems that deliver real impact in production.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on AI optimization for embedded systems and data-driven decision tools
-- 🌍 Based in **Lille, France** — worked on projects in France, Benin
-- 💡 I like bridging the gap between raw data and real business or technical impact
-- 🛠️ Strong believer in clean pipelines, reproducible code, and good documentation
+- 🔬 Currently researching **model compression** (pruning, quantization, distillation) for embedded deployment
+- 🌍 Based in **Lille, France** — worked across France, Belgium, and Benin
+- 💡 I enjoy bridging the gap between ML research and real-world constraints
+- 🛠️ Strong believer in clean pipelines, reproducible experiments, and good documentation
 - 🌐 French (native) · English (B2 professional)
 
 ---
 
-## 🚀 Selected Projects
+## 💼 Experience
 
-### 🤖 YOLOv8 Optimization on Raspberry Pi 5 + Hailo 8L — *JUNIA ISEN*
-> Embedded AI · Computer Vision · Linux
+### 🧪 AI Engineer — *ISIA Lab, Mons, Belgium* `Mar 2026 – May 2026`
+> Model Compression · NLP · Computer Vision
 
-- Optimized YOLOv8 inference on edge hardware, achieving ~**20% performance improvement**
-- Deployed and benchmarked AI models in an embedded Linux (Buildroot) environment
-- Collected and analyzed latency/throughput metrics with **Grafana & InfluxDB**
+- Applied **pruning, quantization, and knowledge distillation** to compress BERT & ViT models and reduce latency
+- Experimented with **DistilBERT** and **MobileViT** using PyTorch and HuggingFace for NLP and vision tasks
+- Analyzed accuracy / speed / power consumption trade-offs for embedded system deployment
 
-`Raspberry Pi` `Hailo AI` `YOLOv8` `Buildroot` `Linux` `Grafana` `InfluxDB`
-
----
-
-### 📊 Business Intelligence & KPI Monitoring — *Superquinquin, Lille*
-> Data Engineering · BI · ETL
-
-- Designed and monitored business KPIs (retention, activity) from **Odoo** data
-- Built automated **ETL pipelines** and decision-making dashboards
-- Created environmental, social, and economic impact assessment frameworks
-
-`Metabase` `SQL` `Odoo`
+`PyTorch` `HuggingFace` `Transformers` `DistilBERT` `MobileViT` `Fasterai` `Fasterbench` `LLM`
 
 ---
 
-### 🏦 Fund Management System — *FGA, Cotonou (Benin)*
+### 📊 Data & BI Consultant — *Superquinquin, Lille* `Oct 2025 – Jan 2026`
+> Data Strategy · ETL · Business Intelligence
+
+- Developed data strategies and KPI frameworks to support growth and executive decision-making
+- Designed automated **ETL pipelines** and dashboards for leadership teams
+- Collaborated with stakeholders to align analytical solutions with business objectives
+
+`SQL` `Metabase` `Odoo`
+
+---
+
+## 🚀 Projects
+
+### 🏦 Insurance Operations Web Platform — *FGA, Cotonou (Benin)* `Mar 2025 – Dec 2025`
 > Full-Stack · Backend · Data Integration
 
-- Developed a centralized system for fund management and claims processing
-- Automated workflows and integrated historical data from Excel and legacy systems
-- Built back-end services for data processing and transformation
+- Designed a centralized data system to support operations and user workflows
+- Automated processes and integrated historical data to improve operational efficiency
+- Contributed to system architecture aligned with business and user needs
 
-`Vue.js` `TypeScript` `Node.js` `PostgreSQL` `Microsoft Server` `Hostinger`
+`PostgreSQL` `Node.js` `TypeScript` `Vue.js` `Microsoft Server`
 
 ---
 
@@ -55,6 +57,7 @@ I'm a **Data Scientist & ML Engineer** with a strong interest in embedded AI, da
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
@@ -63,13 +66,14 @@ I'm a **Data Scientist & ML Engineer** with a strong interest in embedded AI, da
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cloud & BI**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
 **Web & Backend**
 
@@ -78,12 +82,13 @@ I'm a **Data Scientist & ML Engineer** with a strong interest in embedded AI, da
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Embedded**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 

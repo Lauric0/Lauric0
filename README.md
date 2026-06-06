@@ -7,7 +7,7 @@ I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, 
 ## 🧠 About Me
 
 - 🔬 Currently researching **model compression** (pruning, quantization, distillation) for embedded deployment
-- 🌍 Based in **Lille, France** — worked across France, Belgium, and Benin
+- 🌍 Worked across France, Belgium, and Benin
 - 💡 I enjoy bridging the gap between ML research and real-world constraints
 - 🛠️ Strong believer in clean pipelines, reproducible experiments, and good documentation
 - 🌐 French (native) · English (B2 professional)
@@ -92,6 +92,18 @@ I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, 
 
 ---
 
+## 📬 How to Reach Me
+
+<p align="left">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+</p>
+
+> Replace the links above with your own — just update `your@email.com`, `your-profile`, and `your-handle`.
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always happy to exchange ideas with people working on similar topics. Whether you want to share a thought, discuss a technical challenge, or explore a collaboration — feel free to reach out.
@@ -116,7 +128,7 @@ I'm always happy to exchange ideas with people working on similar topics. Whethe
 
 ---
 
-> “*You can’t manage what you can’t measure.*” — Eric Schmidt
+> *"In God we trust; all others must bring data."* — W. Edwards Deming
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lauric0&style=flat-square&color=grey" alt="Profile views"/>

@@ -1,6 +1,6 @@
 # Hi there, I'm **G. Lauric** 👋
 
-I'm a **Data Scientist & ML Engineer** with hands-on experience in embedded AI, model optimization, and data engineering — building systems that deliver real impact in production.
+I'm a **Data Scientist & AI/ML Engineer** with hands-on experience in embedded AI, model optimization, and data engineering — building systems that deliver real impact in production.
 
 ---
 
